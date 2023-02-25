@@ -1,0 +1,7 @@
+{
+    "require": {
+        "stichoza/google-translate-php": "^5.1",
+        "google/cloud-translate": "^1.12",
+        "yandex/translate-api": "1.5.x"
+    }
+}
